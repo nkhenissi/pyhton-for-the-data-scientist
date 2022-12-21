@@ -1,7 +1,7 @@
 # Étude des prix du foncier à Marseille
-Kenza Miousset/n
-Nour Khenissi/n
-Antonin Henriet/n
+Kenza Miousset\n
+Nour Khenissi\n
+Antonin Henriet\n
 
 > ## Objectifs
 
