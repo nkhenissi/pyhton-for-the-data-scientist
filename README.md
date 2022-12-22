@@ -16,4 +16,4 @@ Ce projet se structure en 4 parties :
 > - **Modélisation de la valeur foncière en fonction des arrondissements**
 > - **Cartographie des inégalités spatiales**
 
-Les données sont téléchargées ou scrappées en ligne, puis nettoyées et mises en forme dans le dossier *Data*. Le notebook principal est **Notebook_final**, qui fait appel à d'autres notebooks.
+Les données sont téléchargées ou scrappées en ligne, puis nettoyées et mises en forme dans le dossier *Data*. Le notebook principal est **Notebook_finalvf.ipynb**, qui fait appel à d'autres notebooks.
